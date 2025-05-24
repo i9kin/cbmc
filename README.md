@@ -1,6 +1,6 @@
-= Formal Methods in Software Engineering
+# Formal Methods in Software Engineering
 
-== CBMC: Bounded Model Checking for C/C++
+## CBMC: Bounded Model Checking for C/C++
   
 Ivan Devyaterikov M3307. Spring 2025
 
